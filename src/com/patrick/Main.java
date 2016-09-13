@@ -1,6 +1,6 @@
 package com.patrick;
 import java.util.*;
-public class Main {//Pushed to GIT
+public class Main {
     public static void main(String[] args) {
         //double totalSales = 0;
         Scanner scanner = new Scanner(System.in);
